@@ -1,0 +1,1 @@
+import{G as t}from"./glide.esm.CEd3PIap.js";document.addEventListener("DOMContentLoaded",()=>{new t("#promotion-carousel",{type:"carousel",startAt:0,perView:1,autoplay:3e3,animationDuration:600,gap:20}).mount()});
