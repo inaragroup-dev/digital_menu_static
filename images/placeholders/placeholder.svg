@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Image placeholder">
+    <!-- ... existing code ... -->
+    <g fill="none" stroke="#9aa0a6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(20,26)">
+        <rect x="0" y="0" width="80" height="68" rx="6"/>
+        <circle cx="26" cy="24" r="6"/>
+        <path d="M6 58 L32 34 L52 48 L74 26 L74 58 Z"/>
+    </g>
+</svg>
