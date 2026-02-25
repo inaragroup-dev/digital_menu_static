@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Loading">
+    <defs>
+        <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#eeeeee"/>
+            <stop offset="100%" stop-color="#cccccc"/>
+        </linearGradient>
+    </defs>
+    // ... existing code ...
+    <g transform="translate(60,60)">
+        <circle r="32" fill="none" stroke="#999" stroke-width="8" stroke-linecap="round" opacity="0.25"/>
+        <path d="M 0 -32 A 32 32 0 0 1 27.7 -16" fill="none" stroke="#666" stroke-width="8" stroke-linecap="round">
+            <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="1s" repeatCount="indefinite"/>
+        </path>
+    </g>
+</svg>
